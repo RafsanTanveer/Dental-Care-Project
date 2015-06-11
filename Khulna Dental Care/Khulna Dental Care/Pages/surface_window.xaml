@@ -1,0 +1,22 @@
+﻿<mui:ModernWindow x:Class="mutest2.Pages.surface_window"
+                  xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                  xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                  xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+                  xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+                  xmlns:mui="http://firstfloorsoftware.com/ModernUI"
+                  mc:Ignorable="d" 
+                  d:DesignHeight="300" d:DesignWidth="300" Height="200" Width="200"
+                  ResizeMode="NoResize"
+                  Style="{StaticResource BlankWindow}">
+    <Canvas 
+        HorizontalAlignment="Left" Height="247" Margin="0,21,-97,-97" VerticalAlignment="Top" Width="291">
+        <CheckBox Content="Mesial" Height="20" Canvas.Left="10" Canvas.Top="17" Width="83" FontWeight="Bold"/>
+        <CheckBox Content="Occlusal/Incisal" Height="20" Canvas.Left="10" Canvas.Top="40" Width="128" FontWeight="Bold"/>
+        <CheckBox Content="Distal" Height="20" Canvas.Left="10" Canvas.Top="63" Width="83" FontWeight="Bold"/>
+        <CheckBox Content="Facial/Buccal" Height="20" Canvas.Left="10" Canvas.Top="86" Width="114" FontWeight="Bold"/>
+        <CheckBox Content="Lingual" Height="20" Canvas.Left="10" Canvas.Top="109" Width="83" FontWeight="Bold"/>
+        <CheckBox Content="Class v" Height="20" Canvas.Left="10" Canvas.Top="132" Width="92" FontWeight="Bold"/>
+        <Button Content="Ok" Height="29" Canvas.Left="187" Canvas.Top="198" Width="85" Click="surface_ok_button" />
+        <Button Content="Cancel" Height="29" Canvas.Left="87" Canvas.Top="198" Width="85" Click="surface_cancel_button"/>
+    </Canvas>
+</mui:ModernWindow>

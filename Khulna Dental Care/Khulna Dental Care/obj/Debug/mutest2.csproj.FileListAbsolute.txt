@@ -1,0 +1,165 @@
+c:\users\rafsan tanveer\documents\visual studio 2012\Projects\mutest2\mutest2\bin\Debug\FirstFloor.ModernUI.dll
+c:\users\rafsan tanveer\documents\visual studio 2012\Projects\mutest2\mutest2\bin\Debug\FirstFloor.ModernUI.xml
+c:\users\rafsan tanveer\documents\visual studio 2012\Projects\mutest2\mutest2\obj\Debug\mutest2.csprojResolveAssemblyReference.cache
+c:\users\rafsan tanveer\documents\visual studio 2012\Projects\mutest2\mutest2\obj\Debug\MainWindow.baml
+c:\users\rafsan tanveer\documents\visual studio 2012\Projects\mutest2\mutest2\obj\Debug\Pages\Settings\About.baml
+c:\users\rafsan tanveer\documents\visual studio 2012\Projects\mutest2\mutest2\obj\Debug\Pages\Settings\Appearance.baml
+c:\users\rafsan tanveer\documents\visual studio 2012\Projects\mutest2\mutest2\obj\Debug\App.baml
+c:\users\rafsan tanveer\documents\visual studio 2012\Projects\mutest2\mutest2\obj\Debug\MainWindow.g.cs
+c:\users\rafsan tanveer\documents\visual studio 2012\Projects\mutest2\mutest2\obj\Debug\Pages\Settings\About.g.cs
+c:\users\rafsan tanveer\documents\visual studio 2012\Projects\mutest2\mutest2\obj\Debug\Pages\Settings\Appearance.g.cs
+c:\users\rafsan tanveer\documents\visual studio 2012\Projects\mutest2\mutest2\obj\Debug\App.g.cs
+c:\users\rafsan tanveer\documents\visual studio 2012\Projects\mutest2\mutest2\obj\Debug\Pages\BasicPage1.baml
+c:\users\rafsan tanveer\documents\visual studio 2012\Projects\mutest2\mutest2\obj\Debug\Pages\BasicPage1.g.cs
+c:\users\rafsan tanveer\documents\visual studio 2012\Projects\mutest2\mutest2\obj\Debug\Pages\ListPage1.baml
+c:\users\rafsan tanveer\documents\visual studio 2012\Projects\mutest2\mutest2\obj\Debug\Pages\ModernDialog1.baml
+c:\users\rafsan tanveer\documents\visual studio 2012\Projects\mutest2\mutest2\obj\Debug\Pages\ModernUI.Theme1.baml
+c:\users\rafsan tanveer\documents\visual studio 2012\Projects\mutest2\mutest2\obj\Debug\Pages\ListPage1.g.cs
+c:\users\rafsan tanveer\documents\visual studio 2012\Projects\mutest2\mutest2\obj\Debug\Pages\ModernDialog1.g.cs
+C:\Users\Rafsan Tanveer\Documents\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\Pages\New_personal_info.baml
+C:\Users\Rafsan Tanveer\Documents\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\Pages\New_personal_info.g.cs
+C:\Users\Rafsan Tanveer\Documents\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\Pages\New_HIstory.baml
+C:\Users\Rafsan Tanveer\Documents\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\Pages\Old_history.baml
+C:\Users\Rafsan Tanveer\Documents\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\Pages\New_HIstory.g.cs
+C:\Users\Rafsan Tanveer\Documents\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\Pages\Old_history.g.cs
+C:\Users\Rafsan Tanveer\Documents\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\Pages\new_diagnosis.baml
+C:\Users\Rafsan Tanveer\Documents\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\Pages\new_diagnosis.g.cs
+C:\Users\Rafsan Tanveer\Documents\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\Pages\welcome_page.baml
+C:\Users\Rafsan Tanveer\Documents\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\Pages\welcome_page.g.cs
+C:\Users\Rafsan Tanveer\Documents\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\Pages\admin.baml
+C:\Users\Rafsan Tanveer\Documents\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\Pages\admin.g.cs
+C:\Users\Rafsan Tanveer\Documents\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\Pages\new_bill.baml
+C:\Users\Rafsan Tanveer\Documents\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\Pages\new_prescription.baml
+C:\Users\Rafsan Tanveer\Documents\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\Pages\old_bill.baml
+C:\Users\Rafsan Tanveer\Documents\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\Pages\old_prescription.baml
+C:\Users\Rafsan Tanveer\Documents\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\Pages\new_bill.g.cs
+C:\Users\Rafsan Tanveer\Documents\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\Pages\new_prescription.g.cs
+C:\Users\Rafsan Tanveer\Documents\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\Pages\old_bill.g.cs
+C:\Users\Rafsan Tanveer\Documents\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\Pages\old_prescription.g.cs
+C:\Users\Rafsan Tanveer\Documents\Visual Studio 2012\Projects\mutest2\mutest2\bin\Debug\doctor_database.sdf
+C:\Users\Rafsan Tanveer\Documents\Visual Studio 2012\Projects\mutest2\mutest2\bin\Debug\Resources\doctor_database.sdf
+C:\Users\Rafsan Tanveer\Documents\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\mutest2.Properties.Resources.resources
+C:\Users\Rafsan Tanveer\Documents\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\mutest2.csproj.GenerateResource.Cache
+C:\Users\Rafsan Tanveer\Documents\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\Pages\Old_personal_info.baml
+C:\Users\Rafsan Tanveer\Documents\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\Pages\Old_personal_info.g.cs
+C:\Users\Rafsan Tanveer\Documents\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\Pages\old_diagnosis.baml
+C:\Users\Rafsan Tanveer\Documents\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\Pages\old_diagnosis.g.cs
+C:\Users\Rafsan Tanveer\Documents\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\Pages\SettingsPage.baml
+C:\Users\Rafsan Tanveer\Documents\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\Pages\SettingsPage.g.cs
+C:\Users\Rafsan Tanveer\Documents\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\Assets\Custom.Theme.baml
+C:\Users\Rafsan Tanveer\Documents\Visual Studio 2012\Projects\mutest2\mutest2\bin\Debug\Images\images.jpg
+C:\Users\Rafsan Tanveer\Documents\Visual Studio 2012\Projects\mutest2\mutest2\bin\Debug\Images\favicon1.ico
+C:\Users\Rafsan Tanveer\Documents\Visual Studio 2012\Projects\mutest2\mutest2\bin\Debug\Khulna Dental Care.exe.config
+C:\Users\Rafsan Tanveer\Documents\Visual Studio 2012\Projects\mutest2\mutest2\bin\Debug\Khulna Dental Care.exe.manifest
+C:\Users\Rafsan Tanveer\Documents\Visual Studio 2012\Projects\mutest2\mutest2\bin\Debug\Khulna Dental Care.application
+C:\Users\Rafsan Tanveer\Documents\Visual Studio 2012\Projects\mutest2\mutest2\bin\Debug\Khulna Dental Care.exe
+C:\Users\Rafsan Tanveer\Documents\Visual Studio 2012\Projects\mutest2\mutest2\bin\Debug\Khulna Dental Care.pdb
+C:\Users\Rafsan Tanveer\Documents\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\Khulna Dental Care_Content.g.cs
+C:\Users\Rafsan Tanveer\Documents\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\Khulna Dental Care_MarkupCompile.cache
+C:\Users\Rafsan Tanveer\Documents\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\Khulna Dental Care.g.resources
+C:\Users\Rafsan Tanveer\Documents\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\Khulna Dental Care.exe.manifest
+C:\Users\Rafsan Tanveer\Documents\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\Khulna Dental Care.application
+C:\Users\Rafsan Tanveer\Documents\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\Khulna Dental Care.exe
+C:\Users\Rafsan Tanveer\Documents\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\Khulna Dental Care.pdb
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\bin\Debug\Khulna Dental Care.exe.config
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\Khulna Dental Care.exe
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\Khulna Dental Care.pdb
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\bin\Debug\doctor_database.sdf
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\bin\Debug\Images\favicon1.ico
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\bin\Debug\Images\images.jpg
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\bin\Debug\Resources\doctor_database.sdf
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\bin\Debug\Khulna Dental Care.exe.manifest
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\bin\Debug\Khulna Dental Care.application
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\bin\Debug\Khulna Dental Care.exe
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\bin\Debug\Khulna Dental Care.pdb
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\bin\Debug\FirstFloor.ModernUI.dll
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\bin\Debug\FirstFloor.ModernUI.xml
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\Khulna Dental Care_Content.g.cs
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\Khulna Dental Care_MarkupCompile.cache
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\Khulna Dental Care.g.resources
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\mutest2.Properties.Resources.resources
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\mutest2.csproj.GenerateResource.Cache
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\Khulna Dental Care.exe.manifest
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\Khulna Dental Care.application
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\bin\Debug\XamlSpy.WPF4.dll
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\decoratedxaml\App.xaml
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\decoratedxaml\Assets\Custom.Theme.xaml
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\decoratedxaml\MainWindow.xaml
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\decoratedxaml\Pages\admin.xaml
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\decoratedxaml\Pages\backup.xaml
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\decoratedxaml\Pages\BasicPage1.xaml
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\decoratedxaml\Pages\cost.xaml
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\decoratedxaml\Pages\expense.xaml
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\decoratedxaml\Pages\new_bill.xaml
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\decoratedxaml\Pages\new_diagnosis.xaml
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\decoratedxaml\Pages\ListPage1.xaml
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\decoratedxaml\Pages\ModernDialog1.xaml
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\decoratedxaml\Pages\ModernUI.Theme1.xaml
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\decoratedxaml\Pages\New_HIstory.xaml
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\decoratedxaml\Pages\new_prescription.xaml
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\decoratedxaml\Pages\numbering_window.xaml
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\decoratedxaml\Pages\old_bill.xaml
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\decoratedxaml\Pages\old_diagnosis.xaml
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\decoratedxaml\Pages\Old_history.xaml
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\decoratedxaml\Pages\Old_personal_info.xaml
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\decoratedxaml\Pages\old_prescription.xaml
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\decoratedxaml\Pages\SettingsPage.xaml
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\decoratedxaml\Pages\Settings\About.xaml
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\decoratedxaml\Pages\Settings\Appearance.xaml
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\decoratedxaml\Pages\New_personal_info.xaml
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\decoratedxaml\Pages\surface_window.xaml
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\decoratedxaml\Pages\welcome_page.xaml
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\decoratedxaml\AssemblyInfoSpy.cs
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\obj\Debug\decoratedxaml\Assets\Custom.Theme.baml
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\obj\Debug\decoratedxaml\MainWindow.baml
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\obj\Debug\decoratedxaml\Pages\admin.baml
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\obj\Debug\decoratedxaml\Pages\backup.baml
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\obj\Debug\decoratedxaml\Pages\BasicPage1.baml
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\obj\Debug\decoratedxaml\Pages\cost.baml
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\obj\Debug\decoratedxaml\Pages\expense.baml
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\obj\Debug\decoratedxaml\Pages\new_bill.baml
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\obj\Debug\decoratedxaml\Pages\new_diagnosis.baml
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\obj\Debug\decoratedxaml\Pages\ListPage1.baml
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\obj\Debug\decoratedxaml\Pages\ModernDialog1.baml
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\obj\Debug\decoratedxaml\Pages\ModernUI.Theme1.baml
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\obj\Debug\decoratedxaml\Pages\New_HIstory.baml
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\obj\Debug\decoratedxaml\Pages\new_prescription.baml
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\obj\Debug\decoratedxaml\Pages\numbering_window.baml
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\obj\Debug\decoratedxaml\Pages\old_bill.baml
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\obj\Debug\decoratedxaml\Pages\old_diagnosis.baml
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\obj\Debug\decoratedxaml\Pages\Old_history.baml
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\obj\Debug\decoratedxaml\Pages\Old_personal_info.baml
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\obj\Debug\decoratedxaml\Pages\old_prescription.baml
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\obj\Debug\decoratedxaml\Pages\SettingsPage.baml
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\obj\Debug\decoratedxaml\Pages\Settings\About.baml
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\obj\Debug\decoratedxaml\Pages\Settings\Appearance.baml
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\obj\Debug\decoratedxaml\Pages\New_personal_info.baml
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\obj\Debug\decoratedxaml\Pages\surface_window.baml
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\obj\Debug\decoratedxaml\Pages\welcome_page.baml
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\obj\Debug\decoratedxaml\App.baml
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\obj\Debug\decoratedxaml\MainWindow.g.cs
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\obj\Debug\decoratedxaml\Pages\admin.g.cs
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\obj\Debug\decoratedxaml\Pages\backup.g.cs
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\obj\Debug\decoratedxaml\Pages\BasicPage1.g.cs
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\obj\Debug\decoratedxaml\Pages\cost.g.cs
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\obj\Debug\decoratedxaml\Pages\expense.g.cs
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\obj\Debug\decoratedxaml\Pages\new_bill.g.cs
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\obj\Debug\decoratedxaml\Pages\new_diagnosis.g.cs
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\obj\Debug\decoratedxaml\Pages\ListPage1.g.cs
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\obj\Debug\decoratedxaml\Pages\ModernDialog1.g.cs
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\obj\Debug\decoratedxaml\Pages\New_HIstory.g.cs
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\obj\Debug\decoratedxaml\Pages\new_prescription.g.cs
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\obj\Debug\decoratedxaml\Pages\numbering_window.g.cs
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\obj\Debug\decoratedxaml\Pages\old_bill.g.cs
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\obj\Debug\decoratedxaml\Pages\old_diagnosis.g.cs
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\obj\Debug\decoratedxaml\Pages\Old_history.g.cs
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\obj\Debug\decoratedxaml\Pages\Old_personal_info.g.cs
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\obj\Debug\decoratedxaml\Pages\old_prescription.g.cs
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\obj\Debug\decoratedxaml\Pages\SettingsPage.g.cs
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\obj\Debug\decoratedxaml\Pages\Settings\About.g.cs
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\obj\Debug\decoratedxaml\Pages\Settings\Appearance.g.cs
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\obj\Debug\decoratedxaml\Pages\New_personal_info.g.cs
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\obj\Debug\decoratedxaml\Pages\surface_window.g.cs
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\obj\Debug\decoratedxaml\Pages\welcome_page.g.cs
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\obj\Debug\decoratedxaml\App.g.cs
+E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\obj\Debug\mutest2.csprojResolveAssemblyReference.cache

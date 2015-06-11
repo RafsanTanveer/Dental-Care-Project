@@ -1,0 +1,50 @@
+﻿<UserControl x:Class="mutest2.Pages.Old_personal_info"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:mui="http://firstfloorsoftware.com/ModernUI"
+         
+             mc:Ignorable="d" d:DesignWidth="900" Height="612">
+    <Grid Style="{StaticResource ContentRoot}">
+        <Label Content="Name :" HorizontalAlignment="Left" Height="41" Margin="20,41,0,0" VerticalAlignment="Top" Width="162"/>
+        <TextBox Name="new_name" HorizontalAlignment="Left" Height="37" Margin="20,87,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="244"/>
+        <Label Content="Accompanied By :" HorizontalAlignment="Left" Height="41" Margin="20,139,0,0" VerticalAlignment="Top" Width="208"/>
+        
+        <Label Content="Address :" HorizontalAlignment="Left" Height="41" Margin="20,237,0,0" VerticalAlignment="Top" Width="162"/>
+        <TextBox Name="new_address" HorizontalAlignment="Left" Height="37" Margin="20,283,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="244"/>
+        <Label Content="Age :" HorizontalAlignment="Left" Height="41" Margin="304,41,0,0" VerticalAlignment="Top" Width="162"/>
+        
+        <Label Content="Relation :" HorizontalAlignment="Left" Height="41" Margin="304,141,0,0" VerticalAlignment="Top" Width="162"/>
+     
+        <Label Content="Telephone :" HorizontalAlignment="Left" Height="41" Margin="304,237,0,0" VerticalAlignment="Top" Width="162"/>
+        <TextBox Name="new_telephn" HorizontalAlignment="Left" Height="37" Margin="304,283,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="244"/>
+        <Label Content="Sex :" HorizontalAlignment="Left" Height="41" Margin="20,355,0,0" VerticalAlignment="Top" Width="162"/>
+        <Label Content="Occupation :" HorizontalAlignment="Left" Height="41" Margin="580,41,0,0" VerticalAlignment="Top" Width="162"/>
+        <TextBox Name="new_occupation" HorizontalAlignment="Left" Height="37" Margin="580,87,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="244"/>
+        <Label Content="Old Patient" FontSize="30px"  HorizontalAlignment="Left" VerticalAlignment="Top" Margin="1049,-13,-358,0" Height="81" Width="177" RenderTransformOrigin="0.5,0.5">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.178"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <Label Content="Date :" HorizontalAlignment="Left" Height="42" Margin="582,140,0,0" VerticalAlignment="Top" Width="244"/>
+        <DatePicker Name="new_date" HorizontalAlignment="Left" Height="37" Margin="580,187,0,0" VerticalAlignment="Top" Width="242"/>
+        <RadioButton Content="Male" HorizontalAlignment="Left" Height="38" Margin="20,399,0,0" VerticalAlignment="Top" Width="94"/>
+        <RadioButton Content="Female" HorizontalAlignment="Left" Height="38" Margin="151,399,0,0" VerticalAlignment="Top" Width="129"/>
+        <TextBox x:Name="new_name_Copy" HorizontalAlignment="Left" Height="37" Margin="304,87,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="244"/>
+        <TextBox x:Name="new_name_Copy1" HorizontalAlignment="Left" Height="37" Margin="20,180,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="244"/>
+        <TextBox x:Name="new_name_Copy2" HorizontalAlignment="Left" Height="37" Margin="304,187,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="244"/>
+        <Label Content="Occupation :" HorizontalAlignment="Left" Height="41" Margin="580,41,0,0" VerticalAlignment="Top" Width="162"/>
+        <TextBox x:Name="new_occupation_Copy" HorizontalAlignment="Left" Height="37" Margin="580,87,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="244"/>
+        <Label Content="Name : " HorizontalAlignment="Left" Margin="1009,105,-208,0" VerticalAlignment="Top" Width="67" Height="36"/>
+        <TextBox HorizontalAlignment="Left" Height="37" Margin="1081,104,-412,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="199" />
+        <Label Content="ID :" HorizontalAlignment="Left" Margin="1009,158,-208,0" VerticalAlignment="Top" Width="67" Height="36"/>
+        <TextBox HorizontalAlignment="Left" Height="37" Margin="1081,157,-412,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="199" />
+        <Label Content="Search by :" HorizontalAlignment="Left" Margin="1081,63,-328,0" VerticalAlignment="Top" Width="115" Height="36"/>
+    </Grid>
+</UserControl>

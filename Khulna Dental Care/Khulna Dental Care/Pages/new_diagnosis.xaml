@@ -1,0 +1,102 @@
+﻿<UserControl x:Class="mutest2.Pages.BasicPage2"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:mui="http://firstfloorsoftware.com/ModernUI"
+             mc:Ignorable="d" 
+             d:DesignHeight="663" d:DesignWidth="900">
+    <Grid Style="{StaticResource ContentRoot}" RenderTransformOrigin="0.537,0.502">
+        <Label Content="        Treatment Plan&#x9;&#x9;" HorizontalAlignment="Left" Margin="249,-13,0,0" VerticalAlignment="Top" Height="48" Width="269" RenderTransformOrigin="0.5,0.5" FontWeight="Bold">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleY="-0.074"/>
+                    <RotateTransform/>
+                    <TranslateTransform Y="0.499"/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <Label Content="       Cost" HorizontalAlignment="Left" Margin="501,-9,0,0" VerticalAlignment="Top" Height="48" Width="151" RenderTransformOrigin="0.5,0.5" FontWeight="Bold">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleY="-0.074"/>
+                    <RotateTransform/>
+                    <TranslateTransform Y="0.499"/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <Label Content="Total :" HorizontalAlignment="Left" Margin="917,373,-176,0" VerticalAlignment="Top" Height="42" Width="127" RenderTransformOrigin="0.5,0.5">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleY="-0.074"/>
+                    <RotateTransform/>
+                    <TranslateTransform Y="0.499"/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <TextBox HorizontalAlignment="Left" Height="37" Margin="1149,374,-419,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="138" TextChanged="TextBox_TextChanged_1"/>
+        <Label Content="Courtesy Disc. :" HorizontalAlignment="Left" Margin="917,415,-229,0" VerticalAlignment="Top" Height="42" Width="180" RenderTransformOrigin="0.5,0.5">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleY="-0.074"/>
+                    <RotateTransform/>
+                    <TranslateTransform Y="0.499"/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <TextBox HorizontalAlignment="Left" Height="37" Margin="1149,416,-419,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="138" TextChanged="TextBox_TextChanged_1"/>
+        <Label Content="Total Cost :" HorizontalAlignment="Left" Margin="917,456,-176,0" VerticalAlignment="Top" Height="42" Width="127" RenderTransformOrigin="0.5,0.5">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleY="-0.074"/>
+                    <RotateTransform/>
+                    <TranslateTransform Y="0.499"/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <TextBox HorizontalAlignment="Left" Height="37" Margin="1149,457,-419,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="138" TextChanged="TextBox_TextChanged_1"/>
+        <Button Content="Gingivitis" HorizontalAlignment="Left" Height="39" Margin="34,40,0,0" VerticalAlignment="Top" Width="240" FontWeight="Bold" Click="Gingivitis"/>
+        <Button Content="Periodontisis" HorizontalAlignment="Left" Height="39" Margin="34,216,0,0" VerticalAlignment="Top" Width="240" FontWeight="Bold" Click="Periodontisis"/>
+        <Button Content="Gross Caries" HorizontalAlignment="Left" Height="39" Margin="34,394,0,0" VerticalAlignment="Top" Width="240" FontWeight="Bold" Click="Gross_Caries"/>
+        <Button Content="Fracture" HorizontalAlignment="Left" Height="39" Margin="34,172,0,0" VerticalAlignment="Top" Width="240" FontWeight="Bold" Click="Fracture"/>
+        <Button Content="Pocket" HorizontalAlignment="Left" Height="39" Margin="34,84,0,0" VerticalAlignment="Top" Width="240" FontWeight="Bold" Click="Pocket"/>
+        <Button Content="Retained Deciduous" HorizontalAlignment="Left" Height="39" Margin="34,260,0,0" VerticalAlignment="Top" Width="240" FontWeight="Bold" Click="Retained_Deciduous"/>
+        <Button Content="Missing" HorizontalAlignment="Left" Height="39" Margin="34,438,0,0" VerticalAlignment="Top" Width="240" RenderTransformOrigin="0.52,0.718" FontWeight="Bold" Click="Missing"/>
+        <Button Content="Cyst" HorizontalAlignment="Left" Height="39" Margin="34,348,0,0" VerticalAlignment="Top" Width="240" RenderTransformOrigin="0.709,0.436" FontWeight="Bold" Click="Cyst"/>
+        <Button Content="Orthodontics" HorizontalAlignment="Left" Height="39" Margin="34,128,0,0" VerticalAlignment="Top" Width="240" FontWeight="Bold" Click="Orthodontics"/>
+        <Button Content="B.D.R" HorizontalAlignment="Left" Height="39" Margin="34,304,0,0" VerticalAlignment="Top" Width="240" FontWeight="Bold" Click="Caries"/>
+        <Button Content="Caries" HorizontalAlignment="Left" Height="39" Margin="34,482,0,0" VerticalAlignment="Top" Width="240" FontWeight="Bold" Click="Caries"/>
+        <Button Content="Others" HorizontalAlignment="Left" Height="39" Margin="34,526,0,0" VerticalAlignment="Top" Width="240" FontWeight="Bold" Click="Others"/>
+        <Label Content="Diagnosis" HorizontalAlignment="Left" Height="35" Margin="90,-15,0,0" VerticalAlignment="Top" Width="135" FontWeight="Bold"/>
+        <Button Content="+" HorizontalAlignment="Left" Height="39" Margin="292,40,0,0" VerticalAlignment="Top" Width="165" FontWeight="Bold" FontSize="20"/>
+        <Button Content="+" HorizontalAlignment="Left" Height="39" Margin="292,84,0,0" VerticalAlignment="Top" Width="165" FontWeight="Bold" FontSize="20"/>
+        <Button Content="+" HorizontalAlignment="Left" Height="39" Margin="292,128,0,0" VerticalAlignment="Top" Width="165" FontWeight="Bold" FontSize="20"/>
+        <Button Content="+" HorizontalAlignment="Left" Height="39" Margin="292,172,0,0" VerticalAlignment="Top" Width="165" FontWeight="Bold" FontSize="20"/>
+        <Button Content="+" HorizontalAlignment="Left" Height="39" Margin="292,216,0,0" VerticalAlignment="Top" Width="165" FontWeight="Bold" FontSize="20"/>
+        <Button Content="+" HorizontalAlignment="Left" Height="39" Margin="292,260,0,0" VerticalAlignment="Top" Width="165" FontWeight="Bold" FontSize="20"/>
+        <Button Content="+" HorizontalAlignment="Left" Height="39" Margin="292,304,0,0" VerticalAlignment="Top" Width="165" FontWeight="Bold" FontSize="20"/>
+        <Button Content="+" HorizontalAlignment="Left" Height="39" Margin="292,348,0,0" VerticalAlignment="Top" Width="165" FontWeight="Bold" FontSize="20"/>
+        <Button Content="+" HorizontalAlignment="Left" Height="39" Margin="292,394,0,0" VerticalAlignment="Top" Width="165" FontWeight="Bold" FontSize="20"/>
+        <Button Content="+" HorizontalAlignment="Left" Height="39" Margin="292,438,0,0" VerticalAlignment="Top" Width="165" FontWeight="Bold" FontSize="20"/>
+        <Button Content="+" HorizontalAlignment="Left" Height="39" Margin="292,482,0,0" VerticalAlignment="Top" Width="165" FontWeight="Bold" FontSize="20"/>
+        <Button Content="+" HorizontalAlignment="Left" Height="39" Margin="292,526,0,0" VerticalAlignment="Top" Width="165" FontWeight="Bold" FontSize="20"/>
+        <TextBox HorizontalAlignment="Left" Height="39" Margin="471,40,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="203"/>
+        <TextBox HorizontalAlignment="Left" Height="39" Margin="471,84,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="203"/>
+        <TextBox HorizontalAlignment="Left" Height="39" Margin="471,128,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="203"/>
+        <TextBox HorizontalAlignment="Left" Height="39" Margin="471,172,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="203"/>
+        <TextBox HorizontalAlignment="Left" Height="39" Margin="471,216,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="203"/>
+        <TextBox HorizontalAlignment="Left" Height="39" Margin="471,260,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="203"/>
+        <TextBox HorizontalAlignment="Left" Height="39" Margin="471,304,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="203"/>
+        <TextBox HorizontalAlignment="Left" Height="39" Margin="471,348,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="203"/>
+        <TextBox HorizontalAlignment="Left" Height="39" Margin="471,394,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="203"/>
+        <TextBox HorizontalAlignment="Left" Height="39" Margin="471,438,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="203"/>
+        <TextBox HorizontalAlignment="Left" Height="39" Margin="471,482,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="203"/>
+        <TextBox HorizontalAlignment="Left" Height="39" Margin="471,526,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="203"/>
+
+    </Grid>
+</UserControl>

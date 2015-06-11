@@ -1,0 +1,59 @@
+﻿<UserControl x:Class="mutest2.Pages.New_HIstory"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:mui="http://firstfloorsoftware.com/ModernUI"
+             mc:Ignorable="d" 
+             d:DesignHeight="500" d:DesignWidth="900">
+    <Grid Style="{StaticResource ContentRoot}" Margin="16,28,16,-99">
+        <Label Content="Pregnant/Lactating:" HorizontalAlignment="Left" Height="42" Margin="19,269,0,0" VerticalAlignment="Top" Width="256"/>
+        <Label Content="Pacemaker/prosthetic :" HorizontalAlignment="Left" Height="42" Margin="17,155,0,0" VerticalAlignment="Top" Width="256"/>
+        <RadioButton Name="preg_yes" Content="Yes" HorizontalAlignment="Left" Height="27" Margin="304,274,0,0" VerticalAlignment="Top" Width="52" Checked="RadioButton_Checked_2"/>
+        <RadioButton Name="preg_no" Content="No" HorizontalAlignment="Left" Height="27" Margin="373,274,0,0" VerticalAlignment="Top" Width="63" Checked="RadioButton_Checked_3"/>
+        <Canvas Name="pregnency" Height="62" Margin="451,272,215,0" VerticalAlignment="Top" Visibility="Hidden" >
+            <Label Content="Month :" HorizontalAlignment="Left" Height="48" Width="117" RenderTransformOrigin="0.287,1" Canvas.Left="10"/>
+            <TextBox HorizontalAlignment="Left" Height="34" TextWrapping="Wrap" Width="56" RenderTransformOrigin="-0.508,0.444" TextChanged="TextBox_TextChanged_1" Canvas.Left="100"/>
+        </Canvas>
+        <Label Content="Taking medication :" HorizontalAlignment="Left" Height="30" Margin="17,193,0,0" VerticalAlignment="Top" Width="185"/>
+        <Label Content="Allergic to any material :" HorizontalAlignment="Left" Height="32" Margin="17,232,0,0" VerticalAlignment="Top" Width="245"/>
+        <GroupBox Header="Disease/illness" HorizontalAlignment="Left" Height="256" Margin="462,0,-401,0" VerticalAlignment="Top" Width="807">
+            <Canvas HorizontalAlignment="Left" Margin="4,0,-52,0" Width="810" Height="234" VerticalAlignment="Top">
+                <CheckBox Content="Alcoholism" Height="40" Width="132" Checked="CheckBox_Checked_1"/>
+                <CheckBox Content="Alergies" Height="40" Canvas.Top="38" Width="132"/>
+                <CheckBox Content="Anemia" Height="40" Width="132" Canvas.Top="78"/>
+                <CheckBox Content="Asthma" Height="40" Canvas.Top="117" Width="132" RenderTransformOrigin="0.481,1.938"/>
+                <CheckBox Content="Cancer" Height="40" Width="132" Canvas.Left="132"/>
+                <CheckBox Content="Drug" Height="40" Canvas.Top="38" Width="132" Canvas.Left="132"/>
+                <CheckBox Content="Epilepsy" Height="40" Width="132" Canvas.Top="78" Canvas.Left="132"/>
+                <CheckBox Content="Glaucoma" Height="40" Canvas.Top="117" Width="132" RenderTransformOrigin="0.481,1.938" Canvas.Left="132"/>
+                <CheckBox Content="Heart/Neck injuries" Height="40" Width="217" Canvas.Left="260"/>
+                <CheckBox Content="Blood pressure" Height="40" Canvas.Top="38" Width="170" Canvas.Left="260"/>
+                <CheckBox Content="Immunodeficiency" Height="40" Width="217" Canvas.Top="78" Canvas.Left="260"/>
+                <CheckBox Content="Rheumatic fever" Height="40" Canvas.Top="117" Width="202" RenderTransformOrigin="0.481,1.938" Canvas.Left="260"/>
+                <CheckBox Content="Mental" Height="40" Width="132" Canvas.Left="487"/>
+                <CheckBox Content="Migraine" Height="40" Canvas.Top="38" Width="132" Canvas.Left="487"/>
+                <CheckBox Content="Respiratory" Height="40" Width="132" Canvas.Top="78" Canvas.Left="487"/>
+                <CheckBox Content="Infectious" Height="40" Canvas.Top="117" Width="132" RenderTransformOrigin="0.481,1.938" Canvas.Left="487"/>
+                <CheckBox Content="Hepatitis" Height="40" Width="132" Canvas.Top="159"/>
+                <CheckBox Content="Diabetes" Height="40" Canvas.Top="159" Width="132" Canvas.Left="132"/>
+                <CheckBox Content="Venereal disease" Height="40" Width="202" Canvas.Top="159" Canvas.Left="260"/>
+                <CheckBox Content="Kidney/Liver" Height="40" Canvas.Top="159" Width="132" RenderTransformOrigin="0.481,1.938" Canvas.Left="487"/>
+                <CheckBox Content="Herpes" Height="40" Width="132" Canvas.Left="650"/>
+                <CheckBox Content="Sinusitis" Height="40" Canvas.Top="38" Width="132" Canvas.Left="650"/>
+                <CheckBox Content="Ulcers" Height="40" Width="132" Canvas.Top="78" Canvas.Left="650"/>
+                <CheckBox Name="illness_other_checkbox" Content="Others" Height="40" Canvas.Top="117" Width="132" RenderTransformOrigin="0.481,1.938" Canvas.Left="650" Checked="illness_other_checkbox_action" Unchecked="illness_other_checkbox_uncheck" />
+                <TextBox Name="illness_other" Visibility="Hidden" Height="37" Canvas.Left="650" TextWrapping="Wrap" Canvas.Top="157" Width="132"/>
+            </Canvas>
+        </GroupBox>
+        <GroupBox Header="Allergic To :" HorizontalAlignment="Left" Height="138" Margin="10,0,0,0" VerticalAlignment="Top" Width="303">
+            <Canvas HorizontalAlignment="Left" Height="110" VerticalAlignment="Top" Width="290" Margin="0,0,-12,0">
+                <CheckBox Content="Anesthesia" Height="21" Canvas.Left="10" Canvas.Top="8" Width="131"/>
+                <CheckBox Content="Penicillin" Height="21" Canvas.Left="10" Canvas.Top="39" Width="131"/>
+                <CheckBox Name="allergi_other_checkbox" Content="Others" Height="22" Canvas.Left="10" Canvas.Top="69" Width="90" Checked="allergi_other_action" Unchecked="allergi_other_checkbox_Unchecked"/>
+                <TextBox Name="allergi_other" Visibility="Hidden" Height="35" Canvas.Left="134" TextWrapping="Wrap" Canvas.Top="62" Width="148"/>
+            </Canvas>
+        </GroupBox>
+
+    </Grid>
+</UserControl>

@@ -1,0 +1,19 @@
+﻿<UserControl x:Class="mutest2.Pages.admin"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:mui="http://firstfloorsoftware.com/ModernUI"
+             mc:Ignorable="d" 
+             d:DesignHeight="500" d:DesignWidth="900">
+    <Grid Style="{StaticResource ContentRoot}" Margin="16,28,10,16">
+        <Label Content="User Name :" HorizontalAlignment="Left" Height="34" Margin="938,2,-218,0" VerticalAlignment="Top" Width="154"/>
+        <TextBox Name="username" HorizontalAlignment="Left" Height="43" Margin="1092,2,-406,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="188" TextChanged="username_TextChanged"/>
+        <Button Content="Login" HorizontalAlignment="Left" Height="50" Margin="1130,99,-404,0" VerticalAlignment="Top" Width="148" RenderTransformOrigin="0.5,0.5" Click="Button_Click_1"/>
+        <Label Content="Password   :" HorizontalAlignment="Left" Height="34" Margin="938,46,-214,0" VerticalAlignment="Top" Width="150"/>
+        <StackPanel Name="admin_stack" Visibility="Hidden" HorizontalAlignment="Left" Height="422" Margin="20,10,0,0" VerticalAlignment="Top" Width="854"  >
+            <Label Content="Admin Panel" HorizontalAlignment="Left" Height="310" Margin="94,0,0,0" Width="565"/>
+        </StackPanel>
+        <PasswordBox Name="passbox" HorizontalAlignment="Left" Height="43" Margin="1093,50,-406,0" VerticalAlignment="Top" Width="188"/>
+    </Grid>
+</UserControl>

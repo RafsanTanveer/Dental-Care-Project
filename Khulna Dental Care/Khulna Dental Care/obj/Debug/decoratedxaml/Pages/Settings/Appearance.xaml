@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?><UserControl x:Class="mutest2.Pages.Settings.Appearance" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:d="http://schemas.microsoft.com/expression/blend/2008" mc:Ignorable="d" d:DesignHeight="300" d:DesignWidth="300" xmlns:spy="http://firstfloorsoftware.com/XamlSpy" spy:XamlMetadata.SpyServiceSettings="127.0.0.1|4530|11971|1" spy:XamlMetadata.SourceInfo="E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\Pages\Settings\Appearance.xaml|1|E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2.sln">
+    <Grid spy:XamlMetadata.SourceInfo="E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\Pages\Settings\Appearance.xaml|8|E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2.sln">
+        <ScrollViewer spy:XamlMetadata.SourceInfo="E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\Pages\Settings\Appearance.xaml|9|E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2.sln">
+            <StackPanel x:Name="Panel" MinWidth="150" spy:XamlMetadata.SourceInfo="E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\Pages\Settings\Appearance.xaml|10|E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2.sln">
+                <TextBlock Text="APPEARANCE" Style="{StaticResource Heading2}" Margin="0,0,0,8" spy:XamlMetadata.SourceInfo="E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\Pages\Settings\Appearance.xaml|11|E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2.sln" />
+
+                <ListBox ItemsSource="{Binding AccentColors}" SelectedItem="{Binding SelectedAccentColor, Mode=TwoWay}" Margin="0,0,0,16" spy:XamlMetadata.SourceInfo="E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\Pages\Settings\Appearance.xaml|13|E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2.sln">
+                    <ListBox.ItemsPanel>
+                        <ItemsPanelTemplate>
+                            <WrapPanel MaxWidth="{Binding ActualWidth, ElementName=Panel}" spy:XamlMetadata.SourceInfo="E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\Pages\Settings\Appearance.xaml|18|E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2.sln" />
+                        </ItemsPanelTemplate>
+                    </ListBox.ItemsPanel>
+                    <ListBox.ItemTemplate>
+                        <DataTemplate>
+                            <Rectangle Width="40" Height="40" Margin="2" spy:XamlMetadata.SourceInfo="E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\Pages\Settings\Appearance.xaml|23|E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2.sln">
+                                <Rectangle.Fill>
+                                    <SolidColorBrush x:Name="Brush" Color="{Binding}" />
+                                </Rectangle.Fill>
+                            </Rectangle>
+                        </DataTemplate>
+                    </ListBox.ItemTemplate>
+                </ListBox>
+
+                <Grid HorizontalAlignment="Left" spy:XamlMetadata.SourceInfo="E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\Pages\Settings\Appearance.xaml|32|E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2.sln">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="Auto" />
+                        <ColumnDefinition MinWidth="120" />
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition />
+                        <RowDefinition />
+                    </Grid.RowDefinitions>
+
+                    <TextBlock Text="Theme:" VerticalAlignment="Center" Margin="0,0,16,4" spy:XamlMetadata.SourceInfo="E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\Pages\Settings\Appearance.xaml|42|E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2.sln" />
+                    <ComboBox Grid.Column="1" ItemsSource="{Binding Themes}" SelectedItem="{Binding SelectedTheme, Mode=TwoWay}" DisplayMemberPath="DisplayName" VerticalAlignment="Center" Margin="0,0,0,4" SelectionChanged="ComboBox_SelectionChanged_1" spy:XamlMetadata.SourceInfo="E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2\Pages\Settings\Appearance.xaml|43|E:\document_8\Visual Studio 2012\Projects\mutest2\mutest2.sln" />
+
+                    
+                        
+                    
+                </Grid>
+            </StackPanel>
+        </ScrollViewer>
+    </Grid>
+</UserControl>

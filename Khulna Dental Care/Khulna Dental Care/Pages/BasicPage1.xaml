@@ -1,0 +1,48 @@
+﻿<UserControl x:Class="mutest2.Pages.BasicPage1"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:mui="http://firstfloorsoftware.com/ModernUI"
+             mc:Ignorable="d" 
+             d:DesignHeight="530" d:DesignWidth="900">
+    <Grid Style="{StaticResource ContentRoot}" Margin="16,28,16,16">
+        <Label Content="Anesthesia :" HorizontalAlignment="Left" Height="37" Margin="34,46,0,0" VerticalAlignment="Top" Width="160"/>
+        <Label Content="Penicillin :" HorizontalAlignment="Left" Height="37" Margin="34,88,0,0" VerticalAlignment="Top" Width="160" RenderTransformOrigin="0.719,3.281"/>
+        <Label Content="Hepatitis :" HorizontalAlignment="Left" Height="42" Margin="10,393,0,0" VerticalAlignment="Top" Width="160"/>
+        <Label Content="Blood Pressure :" HorizontalAlignment="Left" Height="42" Margin="10,178,0,0" VerticalAlignment="Top" Width="256"/>
+        <Label Content="Heart Problem :" HorizontalAlignment="Left" Height="42" Margin="10,220,0,0" VerticalAlignment="Top" Width="256"/>
+        <Label Content="Bleeding Problems :" HorizontalAlignment="Left" Height="42" Margin="10,262,0,0" VerticalAlignment="Top" Width="256"/>
+        <Label Content="Diabetes :" HorizontalAlignment="Left" Height="42" Margin="10,304,0,0" VerticalAlignment="Top" Width="256"/>
+        <Label Content="Allergic To :" HorizontalAlignment="Left" Height="37" Margin="0,4,0,0" VerticalAlignment="Top" Width="160"/>
+        <Label Content="Pregnant/Lactating:" HorizontalAlignment="Left" Height="42" Margin="10,346,0,0" VerticalAlignment="Top" Width="256"/>
+        <Label Content="Other :" HorizontalAlignment="Left" Height="35" Margin="34,130,0,0" VerticalAlignment="Top" Width="160" RenderTransformOrigin="0.719,3.281"/>
+        <RadioButton Content="Yes" HorizontalAlignment="Left" Height="27" Margin="295,58,0,0" VerticalAlignment="Top" Width="97"/>
+        <RadioButton Content="No" HorizontalAlignment="Left" Height="27" Margin="448,58,0,0" VerticalAlignment="Top" Width="97"/>
+        <Label Content="General Remarks :" HorizontalAlignment="Left" Height="42" Margin="10,434,0,0" VerticalAlignment="Top" Width="256"/>
+        <RadioButton Content="Yes" HorizontalAlignment="Left" Height="27" Margin="295,98,0,0" VerticalAlignment="Top" Width="97"/>
+        <RadioButton Content="No" HorizontalAlignment="Left" Height="27" Margin="448,98,0,0" VerticalAlignment="Top" Width="97"/>
+        <RadioButton Content="Yes" HorizontalAlignment="Left" Height="27" Margin="295,193,0,0" VerticalAlignment="Top" Width="97"/>
+        <RadioButton Content="No" HorizontalAlignment="Left" Height="27" Margin="448,193,0,0" VerticalAlignment="Top" Width="97"/>
+        <RadioButton Content="Yes" HorizontalAlignment="Left" Height="27" Margin="295,246,0,0" VerticalAlignment="Top" Width="97"/>
+        <RadioButton Content="No" HorizontalAlignment="Left" Height="27" Margin="448,246,0,0" VerticalAlignment="Top" Width="97"/>
+        <RadioButton Content="Yes" HorizontalAlignment="Left" Height="27" Margin="295,298,0,0" VerticalAlignment="Top" Width="97"/>
+        <RadioButton Content="No" HorizontalAlignment="Left" Height="27" Margin="448,298,0,0" VerticalAlignment="Top" Width="97"/>
+        <RadioButton Content="Yes" HorizontalAlignment="Left" Height="27" Margin="295,340,0,0" VerticalAlignment="Top" Width="97"/>
+        <RadioButton Content="No" HorizontalAlignment="Left" Height="27" Margin="448,340,0,0" VerticalAlignment="Top" Width="97"/>
+        <RadioButton Content="Yes" HorizontalAlignment="Left" Height="27" Margin="295,387,0,0" VerticalAlignment="Top" Width="97"/>
+        <RadioButton Content="No" HorizontalAlignment="Left" Height="27" Margin="448,387,0,0" VerticalAlignment="Top" Width="97"/>
+        <TextBox HorizontalAlignment="Left" Height="42" Margin="295,140,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="209"/>
+        <TextBox HorizontalAlignment="Left" Height="42" Margin="295,434,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="209"/>
+        <Label Content="New Patient" FontSize="30px" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="1049,-13,-358,0" Height="81" Width="177" RenderTransformOrigin="0.5,0.5">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.178"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+    </Grid>
+</UserControl>

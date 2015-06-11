@@ -1,0 +1,76 @@
+﻿<mui:ModernWindow x:Class="mutest2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:mui="http://firstfloorsoftware.com/ModernUI"
+        Title="Khulna Dental Care - Dr. Mustafiz Al Arifin" IsTitleVisible="True" FontSize="22px"
+                  
+        LogoData=""
+        Icon="/Images/favicon1.ico"
+        ContentSource="/Pages/welcome_page.xaml" ShowInTaskbar="True" >
+    <!-- TODO: set @SelectedSource -->
+    <mui:ModernWindow.MenuLinkGroups>
+        
+        <mui:LinkGroup DisplayName="home" >
+            <mui:LinkGroup.Links>
+                <mui:Link DisplayName="Welcome" Source="/Pages/welcome_page.xaml" />
+                
+            </mui:LinkGroup.Links>
+                
+            
+        </mui:LinkGroup>
+        
+        <mui:LinkGroup DisplayName="New Patient">
+            <mui:LinkGroup.Links>
+                <mui:Link DisplayName="Personal Information" Source="/Pages/New_personal_info.xaml"  />
+                
+                <mui:Link DisplayName="Past Medial/Dental History" Source="/Pages/New_History.xaml" />
+                <mui:Link DisplayName="Diagnosis" Source="/Pages/new_diagnosis.xaml" />
+                <mui:Link DisplayName="bill" Source="/Pages/new_bill.xaml" />
+                <mui:Link DisplayName="prescription" Source="/Pages/new_prescription.xaml" />
+            </mui:LinkGroup.Links>
+        </mui:LinkGroup>
+       
+        
+        <mui:LinkGroup DisplayName="Old Patient">
+            <mui:LinkGroup.Links>
+                <mui:Link DisplayName="Personal Information" Source="/Pages/Old_personal_info.xaml"/>
+                <mui:Link DisplayName="Past Medial/Dental History" Source="/Pages/Old_History.xaml" />
+                <mui:Link DisplayName="Diagnosis" Source="/Pages/old_diagnosis.xaml"/>
+                <mui:Link DisplayName="bill" Source="/Pages/old_bill.xaml" />
+                <mui:Link DisplayName="prescription" Source="/Pages/old_prescription.xaml" />
+                
+            </mui:LinkGroup.Links>
+        </mui:LinkGroup>
+       
+       
+        
+        <mui:LinkGroup DisplayName="Admin" >
+            <mui:LinkGroup.Links>
+
+                <mui:Link DisplayName="cost" Source="/Pages/cost.xaml" />
+                <mui:Link DisplayName="expense" Source="/Pages/expense.xaml" />
+                <mui:Link DisplayName="backup" Source="/Pages/backup.xaml" />
+
+            </mui:LinkGroup.Links>
+        </mui:LinkGroup>
+       
+    
+        <mui:LinkGroup DisplayName="settings" GroupKey="settings">
+            <mui:LinkGroup.Links>
+                <mui:Link DisplayName="software" Source="/Pages/SettingsPage.xaml" />
+            </mui:LinkGroup.Links>
+        </mui:LinkGroup>
+        
+        
+
+    </mui:ModernWindow.MenuLinkGroups>
+    
+    
+    
+    
+    <mui:ModernWindow.TitleLinks>
+        <mui:Link DisplayName="signin"  />
+        <mui:Link DisplayName="settings" Source="/Pages/SettingsPage.xaml" />
+       
+    </mui:ModernWindow.TitleLinks>
+</mui:ModernWindow>

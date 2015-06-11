@@ -1,0 +1,14 @@
+﻿<UserControl x:Class="mutest2.Pages.welcome_page"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:mui="http://firstfloorsoftware.com/ModernUI"
+             mc:Ignorable="d" 
+             d:DesignHeight="500" d:DesignWidth="900">
+    <Grid Style="{StaticResource ContentRoot}" Margin="16,28,16,335">
+        <Label Content="Khulna Dental Care"   HorizontalAlignment="Left" Margin="-2,-9,0,0" VerticalAlignment="Top" Height="112" Width="778" FontSize="72"/>
+        <Label Content="Dr. Mustafiz Al Arifin&#xA;" HorizontalAlignment="Left" Height="38" Margin="937,2,-365,0" VerticalAlignment="Top" Width="296" FontSize="32"/>
+        <Label Content="BDS&#xA;Dental Surgeon&#xA;B.M.D.C. &#xD;&#xA;Reg. 2902&#xA;Ex-Lecturer&#xA;City Dental College &amp; Hospital" HorizontalAlignment="Left" Height="183" Margin="937,45,-450,-91" VerticalAlignment="Top" Width="381"/>
+    </Grid>
+</UserControl>
