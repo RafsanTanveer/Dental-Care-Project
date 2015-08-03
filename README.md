@@ -1,6 +1,6 @@
 # Dental Care Project
 
-Khulna Denatal Care is a patient and bill management software. It is developing by using WPF and ModernUI for Wpf. MVVM Light is used as a framework in ths project. The project is stil in under construction.
+Khulna Denatal Care is a patient and bill management software. It is developing by using WPF and ModernUI for Wpf. MVVM Light is used as a framework in ths project. The project is still in under construction.
 
 ![Alt text](http://i57.tinypic.com/15s3igz.jpg)
 
